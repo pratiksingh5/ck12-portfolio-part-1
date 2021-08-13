@@ -5,7 +5,6 @@ import HomePage from './Pages/HomePage';
 import AboutPage from './Pages/AboutPage';
 import ContactPage from './Pages/ContactPage';
 import Header from './Components/Header';
-import Footer from './Components/Footer'
 import PortfolioPage from './Pages/PortfolioPage'
 import './App.css'
 
